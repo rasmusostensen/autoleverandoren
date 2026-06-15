@@ -100,7 +100,7 @@ function HeroSection() {
       <div className="hero-stage">
         <video
           ref={setVideoRef}
-          src="/hero-video.mp4"
+          src={import.meta.env.BASE_URL + 'hero-video.mp4'}
           muted
           playsInline
           autoPlay
