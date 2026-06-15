@@ -22,7 +22,7 @@
 
 .finn-section__btn {
   padding: 16px 44px;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 /* ===== INFO CARDS ===== */
@@ -80,9 +80,9 @@
 }
 
 .info-cards__card-text {
-  font-size: 0.86rem;
+  font-size: 0.98rem;
   color: var(--color-text-secondary);
-  line-height: 1.8;
+  line-height: 1.85;
 }
 
 @media (max-width: 1024px) {

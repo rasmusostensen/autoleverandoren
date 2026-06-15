@@ -85,9 +85,9 @@
 }
 
 .values__card-text {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: var(--color-text-secondary);
-  line-height: 1.8;
+  line-height: 1.85;
 }
 
 /* ===== CTA BANNER ===== */
@@ -131,7 +131,7 @@
 }
 
 .cta-banner__text {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: var(--color-text-secondary);
   margin-bottom: 40px;
   position: relative;
